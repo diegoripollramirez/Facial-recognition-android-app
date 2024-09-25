@@ -1,0 +1,8 @@
+npm install express
+npm install body-parser
+npm install multer
+npm install mongodb
+npm install nnanoid@3.1.25
+npm install face-api.js
+npm install canvas
+npm install @tensorflow/tfjs canvas

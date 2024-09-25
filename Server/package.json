@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for facial recognition app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TFG facial recognition app"
+  },
+  "author": "Diego Ripoll",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.21.0",
+    "canvas": "^2.11.2",
+    "face-api.js": "^0.22.2",
+    "nanoid": "^3.1.25"
+  }
+}
